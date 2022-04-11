@@ -1,0 +1,41 @@
+Olá, seja bem vindo !!
+Me chamo Luís e este é um breve resumo em tópicos do aprendizado no Bootcamp, onde irei destacar os principais assuntos abordados.
+
+O Objetivo deste desafio é praticar o uso do Git e Github, criando, clonando, modificando e empurrando um repositório para o GitHub.
+
+Módulo 1:
+
+- Pensamento computacional:
+	Nos ajuda a treinar e entender como pensar, visualizar e resolver os desafios.
+
+- Lógica de Programação:
+	É a base para todo o conhecimento de programação, precisamos entender e criar uma base sólida para avançar no conhecimento e entender a lógica das coisas.
+
+- Introdução ao Git e GitHub:
+	Aqui veio o primeiro diferencial da DIO, uma aula muito prática e com ótima didática sobre o que é e como funciona o Git e GitHub rompendo aquela barreira que
+a gente acha que existe de que é super difícil de utilizar a plataforma. Lógico que nós que estamos iniciando ainda temos muito a aprender, mas o básico e o necessário
+para nos sentirmos seguros para utilizar as ferramentas foi muito bem ensinado.
+	cd	cd..	dir	mkdir	del/rmdir	cls/ctrl+l	auto complete	ls	foram alguns do comando ensinados para CLI;
+
+	Blobs	Trees	e Commits;
+
+	git init	git add		git commit	git clone	git push.
+
+- Projetos ágeis com SCRUM:
+	Para ser sincero no início eu não estava entendendo a relevância do assunto, mas depois de algumas aulas e imersão no assunto, mudei totalmente minha opinião
+e conseguir ver a importância do SCRUM dentro do desenvolvimento de tecnologias, mas pensando um pouco fora desse contexto podemos também utlizar em todo os tipos de
+trabalho onde comandamos uma equipe, por exemplo utilizando a SPRINT, os pilares do SCRUM, planejamentos, Dailys, Reviews, Retrospectivas, seremos capazes de atingir
+objetivos de forma mais rápida e objetiva, além de que muito provavelmente isso poderá fazer parte do meu dia a dia na minha carreira como DEV.
+
+- Criando um repósitório no GitHub:
+	Exatamente o que estou realizando no momento para consolidar o conhecimento de criar, clonar, modificar e empurrar novamente para o servidor remoto.
+Em breve farei alterações conforme a conclusão dos módulos do curso para poder compartilhar o aprendizado.
+
+
+
+
+Módulo 2: HTML / CSS;
+
+Módulo 3: JavaScript;
+
+Módulo 4: Games Projects;
